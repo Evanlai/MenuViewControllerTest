@@ -2,6 +2,11 @@
 
 Menu Change ViewController sample.
 
+1.Setting LeftViewControllr.swift / SlideMenuViewController.swift Constraint and LayoutPriority.
+
+2.Setting you want use ViewPage number.
+
+
 # SnapShot
 
 ![image](https://i.imgur.com/zsQVLFN.png) 
